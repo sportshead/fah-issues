@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Folding@home FAQ
+    url: https://foldingathome.org/support/faq/
+    about: Look here before asking a question on the forum
+  - name: Folding@home forums
+    url: https://foldingforum.org/
+    about: Questions and configuration problems go here.
+  - name: WUs not uploading
+    url: https://foldingforum.org/viewforum.php?f=18/
+    about: Go here to report problems about a specific server.
+  - name: No WUs
+    url: https://github.com/FoldingAtHome/fah-issues/issues/new/choose/
+    about: Yes, we know there are no work units available. Wait and your client will automatically find one.
